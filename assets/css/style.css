@@ -198,9 +198,12 @@ hr{
 }
 
 .receita-autor > img{
-    border-radius: 20rem;
+    border-radius: 100%;
     width: 1.5rem;
+    height: 1.5rem;
+    object-fit: cover;
 }
+
 
 .receita-autor-nome{
     color: #c7bab3;
